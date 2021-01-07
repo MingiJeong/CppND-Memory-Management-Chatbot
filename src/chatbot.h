@@ -30,6 +30,15 @@ public:
     //// STUDENT CODE
     ////
 
+    // TASK 2:
+    // 1. Copy constructor (copy as it is and make new thing)
+    ChatBot(const ChatBot & source);
+    // 2. Copy assignment operator
+    ChatBot &operator=(const ChatBot & source);
+    // 3. Move constructor (we need to do nullptr to make source back)
+    ChatBot(ChatBot &&source);
+    // 4. Move assignment operator
+    ChatBot &operator=(ChatBot && source);
     ////
     //// EOF STUDENT CODE
 

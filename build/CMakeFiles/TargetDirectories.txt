@@ -1,0 +1,3 @@
+/home/minkbrook/Documents/Mingi/Udacity/CppND-Memory-Management-Chatbot/build/CMakeFiles/rebuild_cache.dir
+/home/minkbrook/Documents/Mingi/Udacity/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir
+/home/minkbrook/Documents/Mingi/Udacity/CppND-Memory-Management-Chatbot/build/CMakeFiles/edit_cache.dir
