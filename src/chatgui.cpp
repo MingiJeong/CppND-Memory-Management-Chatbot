@@ -142,7 +142,6 @@ ChatBotPanelDialog::~ChatBotPanelDialog()
     ////
 
     // TASK 1: no need to delete chatlogic explicitly since smart pointer does the thing.
-    cout << "delete chatlogic" << endl;
     //delete _chatLogic;
 
     ////
